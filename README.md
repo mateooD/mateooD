@@ -1,4 +1,4 @@
-# 👋 Hola, soy Mateo Díaz
+# 👋 Hola, soy Mateo Diaz
 
 🎓 Ingeniería Electrónica — FCEFyN — UNC  
 🔧 Hardware | Sistemas embebidos | Audio | IoT | RF  
